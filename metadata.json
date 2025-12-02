@@ -1,0 +1,5 @@
+{
+  "name": "PsychoDash",
+  "description": "A comprehensive practice management system for psychologists featuring patient tracking, session scheduling, financial analytics, and AI-powered clinical note summarization.",
+  "requestFramePermissions": []
+}
